@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "5db4d88928f83bc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "90b00fc99a3a8b1b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/Authentication.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d76099833b7b63de",
+    "type": "split",
+    "children": [
+      {
+        "id": "567ed721b749729a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9221d2a52906b235",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "be67cb01eb7d7a99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbe4d6f9ff1da772",
+    "type": "split",
+    "children": [
+      {
+        "id": "f743f33d8d66aa04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19c1a5ace0a32f87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Authentication.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a316434f19ff73b5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "90b00fc99a3a8b1b",
+  "lastOpenFiles": [
+    "docs/Authentication.md",
+    "docs/README.md",
+    "README.md",
+    "docs/Untitled.md"
+  ]
+}
